@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap_4_site",
+  "version": "1.0.0",
+  "description": "A website built with bootstrap html5, css and bootstrap 4",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Aigboeghian",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
+}
